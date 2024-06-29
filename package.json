@@ -1,0 +1,19 @@
+{
+  "name": "tiktok-game-api",
+  "version": "1.0.0",
+  "description": "API for TikTok Mob Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuezese",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-bash-title": "^0.0.2",
+    "rcon-client": "^4.2.4",
+    "tiktok-live-connector": "^1.1.7"
+  }
+}
